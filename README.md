@@ -4,6 +4,8 @@ A compact wireless keyboard with 2 programmable keys, built around the ESP32-C3 
 
 > PCBWay Project Page: [ESP32-C3 BLE Keyboard - Battery Powered with USB-C Charging](https://www.pcbway.com/project/shareproject/ESP32_C3_BLE_Keyboard_Battery_Powered_with_USB_C_Charging_1821926f.html)
 
+![完成品](docs/images/Realshot.png)
+
 ---
 
 ## Features

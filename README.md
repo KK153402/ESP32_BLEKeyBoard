@@ -82,15 +82,3 @@ cd ESP32_BLEKeyBoard
 ```
 
 Auto-programming is supported via the FT231XS + DTR/RTS reset circuit — no manual button presses needed.
-
----
-
-## License
-
-MIT License
-
----
-
-## Author
-
-**KAZUMA KURATA** (Japan)
